@@ -1,0 +1,3 @@
+[submodule "company-connections"]
+	path = company-connections
+	url = git@github.com:seanhung07/company-connections.git
